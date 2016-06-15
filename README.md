@@ -1,5 +1,5 @@
-# coachella
-#### An optimized viewer for the coachella music festival with an emphasis on UX.
+# coachella 
+#### An optimized viewer for the coachella music festival with an emphasis on UX.[Plunk](http://embed.plnkr.co/JZ3vnu8ArlGuhpSzzpSP/)
 
 I didn't want to fork out $500 for a ticket & the event was livestreaming on youtube so I wanted to play around with building a viewer that
 would allow users to keep a high level view of all the stages with small viedo panes and quickly soom to full screen and dim the background 
