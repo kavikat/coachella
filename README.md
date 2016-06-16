@@ -2,7 +2,7 @@
 #### An optimized viewer for the coachella music festival with an emphasis on UX.
 ####[Plunk](http://embed.plnkr.co/JZ3vnu8ArlGuhpSzzpSP/)
 
-I didn't want to fork out $500 for a ticket & the event was livestreaming on youtube so I wanted to play around with building a viewer that
+I didn't want to fork out $500 for a ticket & the event was livestreaming on youtube so I tooled around with building a viewer that
 would allow users to keep a high level view of all the stages with small viedo panes and have the ability to effortlessly zoom to full screen and dim the background 
 stages on a mouseover event.
 
